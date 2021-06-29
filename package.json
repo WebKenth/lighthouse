@@ -1,0 +1,17 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lighthouse": "^8.0.0"
+  },
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "ora": "^5.4.1"
+  },
+  "scripts": {
+    "production": "node index.js production",
+    "staging": "node index.js staging"
+  }
+}

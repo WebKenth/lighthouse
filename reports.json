@@ -1,0 +1,24 @@
+[
+    {
+        "name": "incover",
+        "reports":
+        [
+            {
+                "name": "frontpage",
+                "url": "https://www.incover.dk/"
+            },
+            {
+                "name": "category-without-product",
+                "url": "https://www.incover.dk/mobil/"
+            },
+            {
+                "name": "category-with-product",
+                "url": "https://www.incover.dk/mobil/iphone/iphone-12"
+            },
+            {
+                "name": "product",
+                "url": "https://www.incover.dk/iphone-12-12-pro-non-slip-cover-magsafe-kompatibel-gennemsigtig-rod"
+            }
+        ]
+    }
+]
