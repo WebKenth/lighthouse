@@ -1,7 +1,10 @@
 # How to Run
 
+Install dependencies and copy the sample file
 ```bash
-yarn
+yarn;
+
+cp reports-sample.json reports.json
 ```
 
 Two scripts are included and can be run with 
