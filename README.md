@@ -30,7 +30,7 @@ Running the test twice with same name will overwrite the previous run
 
 # How does it work?
 
-reports.json contains the projects and sites it ruuns
+reports.json contains the projects and sites it runs
 
 structure:
 ```json
